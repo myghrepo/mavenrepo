@@ -10,7 +10,7 @@
 div.ex {
 	text-align: right width:300px;
 	padding: 10px;
-	border: 5px solid grey;
+	border: 5px solid blue;
 	margin: 0px
 }
 </style>
